@@ -8,7 +8,7 @@ public class Test {
         System.out.println("Current temperature: " + temperature);
 
         // 상수 값 변경 시도 (컴파일 오류 발생)
-        FREEZING_POINT = 10;  // 이 코드는 컴파일 오류를 발생시킵니다.
+         // 이 코드는 컴파일 오류를 발생시킵니다.
 
         System.out.println("Freezing point of water: " + FREEZING_POINT);
     }
